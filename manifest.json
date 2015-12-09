@@ -19,8 +19,7 @@
   },
 
   "permissions": [
-    "webRequest",
-    "webRequestBlocking"
+    "webRequest"
   ],
 
   "background": {
