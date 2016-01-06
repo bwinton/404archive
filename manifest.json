@@ -19,7 +19,10 @@
   },
 
   "permissions": [
-    "webRequest"
+    "webRequest",
+    "http://*/*",
+    "https://*/*",
+    "<all_urls>"
   ],
 
   "background": {
